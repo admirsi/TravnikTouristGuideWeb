@@ -1,82 +1,82 @@
 [
   {
-    "eventName": "Andrićevi dani",
+    "eventName": "Andrić Days",
     "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Andrićevi dani su tradicionalna kulturna manifestacija koja se održava u Travniku svake godine u oktobru, povodom rođendana nobelovca Ive Andrića. Manifestacija obuhvata razne književne, naučne, umjetničke i edukativne programe, kao što su predstavljanja knjiga, tribine, izložbe, koncerti, predstave i radionice. Cilj manifestacije je afirmacija i promocija Andrićevog djela i njegovog rodnog grada, kao i podsticanje kulturnog i duhovnog razvoja Travničana i njihovih gostiju1.",
+    "description": "Andrić Days is a traditional cultural event held in Travnik every October, celebrating the birthday of the Nobel laureate Ivo Andrić. The event includes various literary, scientific, artistic, and educational programs, such as book presentations, panel discussions, exhibitions, concerts, plays, and workshops. The goal is to affirm and promote Andrić's work and his hometown, as well as encourage the cultural and spiritual development of the people of Travnik and their guests.",
     "time": "9-15.10.2023.",
-    "price": "besplatno",
+    "price": "Free",
     "location": "44.23221064435923, 17.63748721686031"
   },
   {
-    "eventName": "Travnički sajam",
+    "eventName": "Travnik Fair",
     "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnički sajam je najveći sajam privrede, poljoprivrede i turizma u Srednjoj Bosni, koji se održava svake godine u septembru na prostoru bivše vojarne u Travniku. Sajam okuplja izlagače iz različitih sektora, koji predstavljaju svoje proizvode i usluge, te ostvaruju poslovnu saradnju i razmjenu iskustava. Sajam je i prilika za promociju travničkog kraja, njegovih prirodnih ljepota, kulturne baštine i gastronomske ponude. Sajam prati i bogat kulturno-zabavni program, koji uključuje koncerte, predstave, sportska takmičenja i druge aktivnosti2.",
+    "description": "Travnik Fair is the largest fair of economy, agriculture, and tourism in Central Bosnia, held every September at the site of the former barracks in Travnik. The fair gathers exhibitors from various sectors, showcasing their products and services, fostering business cooperation, and exchanging experiences. The fair is also an opportunity to promote the natural beauty, cultural heritage, and gastronomic offerings of the Travnik region. It is accompanied by a rich cultural and entertainment program, including concerts, performances, sports competitions, and other activities.",
     "time": "16-19.9.2023.",
     "price": "2(KM)",
     "location": "44.226083539513326, 17.66509980101676"
   },
   {
-    "eventName": "Travnički ćevapdžinica festival",
+    "eventName": "Travnik Ćevap Festival",
     "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnički ćevapdžinica festival je gastronomski festival koji se održava u Travniku svake godine u avgustu, sa ciljem da promoviše i očuva tradiciju pripreme i konzumiranja travničkih ćevapa, koji su jedan od najpoznatijih brendova ovog grada. Festival okuplja ćevabdžije iz Travnika i drugih gradova, koji nude svoje specijalitete posjetiteljima, uz pratnju travničkog sira, luka, somuna i kajmaka. Festival je i takmičarskog karaktera, jer se bira najbolji ćevapdžija, najbolji ćevap i najbolji somun. Festival je i prilika za uživanje u muzici, plesu i druženju3.",
+    "description": "Travnik Ćevap Festival is a gastronomic festival held in Travnik every August, aiming to promote and preserve the tradition of preparing and consuming Travnik's Ćevapi, one of the city's most famous brands. The festival brings together Ćevapi makers from Travnik and other cities, offering their specialties to visitors, accompanied by Travnik cheese, onions, somun bread, and kaymak. The festival also includes competitions to determine the best Ćevap maker, best Ćevap, and best somun bread. It's an opportunity to enjoy music, dance, and socializing.",
     "time": "14-15.8.2023.",
-    "price": "besplatno",
+    "price": "Free",
     "location": "44.22611521253636, 17.659724507445098"
   },
   {
-    "eventName": "Travnički karneval",
+    "eventName": "Travnik Carnival",
     "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnički karneval je manifestacija koja se održava u Travniku svake godine u februaru, uoči početka korizme. Karneval okuplja učesnike iz različitih gradova i država, koji se maskiraju i paradiraju ulicama Travnika, uz pratnju muzike i plesa. Karneval je i prilika za humor i satiru, jer se na kreativan način ismijavaju aktuelna društvena i politička zbivanja. Karneval završava izborom najbolje maske i paljenjem lutke koja simbolizira zimu1.",
+    "description": "Travnik Carnival is an event held in Travnik every February, just before the start of Lent. The carnival brings together participants from different cities and countries who dress up and parade through the streets of Travnik, accompanied by music and dance. The carnival is also an opportunity for humor and satire, creatively mocking current social and political events. The carnival concludes with the selection of the best costume and the burning of an effigy symbolizing winter.",
     "time": "26-27.2.2023.",
-    "price": "besplatno",
+    "price": "Free",
     "location": "44.226339912343775, 17.66230386374915"
   },
   {
-    "eventName": "Travnički sajam knjige",
+    "eventName": "Travnik Book Fair",
     "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnički sajam knjige je manifestacija koja se održava u Travniku svake godine u oktobru, u prostorijama Centra za kulturu. Sajam okuplja izdavače, autore, knjižare, biblioteke i ljubitelje knjige, koji mogu razgledati i kupiti knjige različitih žanrova i tema, po povoljnim cijenama. Sajam prati i bogat kulturni program, koji uključuje promocije knjiga, književne večeri, tribine, radionice i nagradne igre2.",
+    "description": "Travnik Book Fair is an event held in Travnik every October at the Cultural Center. The fair brings together publishers, authors, bookstores, libraries, and book enthusiasts who can browse and buy books of various genres and topics at affordable prices. The fair is accompanied by a rich cultural program, including book promotions, literary evenings, panel discussions, workshops, and prize draws.",
     "time": "18-22.10.2023.",
-    "price": "besplatno",
+    "price": "Free",
     "location": "44.22607642455642, 17.667042255238155"
   },
   {
-    "eventName": "Travnički festival mladih",
+    "eventName": "Travnik Youth Festival",
     "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnički festival mladih je manifestacija koja se održava u Travniku svake godine u junu, na prostoru bivše vojarne. Festival je namijenjen mladima i njihovom kreativnom izražavanju, te obuhvata razne umjetničke, sportske, edukativne i zabavne programe, kao što su koncerti, predstave, izložbe, radionice, takmičenja i druge. Festival je i prilika za druženje, razmjenu ideja i iskustava, te promociju mladih talenata i aktivista3.",
+    "description": "Travnik Youth Festival is an event held in Travnik every June at the former barracks. The festival is dedicated to young people and their creative expression, featuring various artistic, sports, educational, and entertaining programs, including concerts, performances, exhibitions, workshops, competitions, and more. The festival is an opportunity for socializing, exchanging ideas and experiences, and promoting young talents and activists.",
     "time": "14-16.6.2023.",
-    "price": "besplatno",
+    "price": "Free",
     "location": "44.227286620577466, 17.66618909374516"
   },
   {
-    "eventName": "Travnički festival sira",
+    "eventName": "Travnik Cheese Festival",
     "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnički festival sira je gastronomski festival koji se održava u Travniku svake godine u maju, na trgu ispred Zavičajnog muzeja. Festival je posvećen travničkom siru, koji je jedan od najpoznatijih i najkvalitetnijih sireva u Bosni i Hercegovini, te ima zaštićeno geografsko porijeklo. Festival okuplja proizvođače i distributere sira, koji nude svoje proizvode posjetiteljima, uz degustaciju i prodaju. Festival je i prilika za upoznavanje različitih vrsta sira, njihove proizvodnje i značaja za zdravlje.",
+    "description": "Travnik Cheese Festival is a gastronomic festival held in Travnik every May in front of the Museum of Local History. The festival is dedicated to Travnik cheese, one of the most famous and highest quality cheeses in Bosnia and Herzegovina, with protected geographical origin. The festival gathers cheese producers and distributors, offering their products to visitors for tasting and purchase. It's an opportunity to discover different types of cheese, their production, and their significance for health.",
     "time": "25-26.5.2023.",
-    "price": "besplatno",
+    "price": "Free",
     "location": "44.225984597528935, 17.6689178684315"
   },
   {
-    "eventName": "Travnički festival filma",
+    "eventName": "Travnik Film Festival",
     "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnički festival filma je manifestacija koja se održava u Travniku svake godine u novembru, u kinu 'Korzo'. Festival je namijenjen ljubiteljima sedme umjetnosti, te prikazuje filmove različitih žanrova i zemalja, sa posebnim naglaskom na domaću i regionalnu kinematografiju. Festival je i takmičarskog karaktera, jer se dodjeljuju nagrade za najbolji film, režiju, scenarij, glumu i druge kategorije, koje odlučuje stručni žiri i publika.",
+    "description": "Travnik Film Festival is an event held in Travnik every November at the 'Korzo' cinema. The festival is dedicated to film enthusiasts and showcases films of various genres and countries, with a special focus on domestic and regional cinematography. The festival is also competitive, with awards for the best film, direction, screenplay, acting, and other categories, judged by a professional jury and the audience.",
     "time": "8-12.11.2023.",
     "price": "2(KM)",
     "location": "44.22584897592798, 17.654271027640018"
   },
   {
-    "eventName": "Travnički festival piva",
+    "eventName": "Travnik Beer Festival",
     "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnički festival piva je manifestacija koja se održava u Travniku svake godine u avgustu, na prostoru bivše vojarne. Festival je posvećen pivu, koji je jedno od najpopularnijih i najstarijih pića na svijetu, te ima bogatu i raznovrsnu ponudu. Festival okuplja proizvođače i distributere piva, koji nude svoje proizvode posjetiteljima, uz degustaciju i prodaju. Festival je i prilika za uživanje u muzici, plesu i druženju, te za upoznavanje različitih vrsta piva, njihove proizvodnje i uticaja na zdravlje.",
+    "description": "Travnik Beer Festival is an event held in Travnik every August at the former barracks. The festival is dedicated to beer, one of the most popular and oldest beverages in the world, with a rich and diverse offering. The festival brings together beer producers and distributors, offering their products to visitors for tasting and purchase. It's an opportunity to enjoy music, dance, and socializing, as well as to learn about different types of beer, their production, and their impact on health.",
     "time": "16-17.8.2023.",
-    "price": "besplatno",
+    "price": "Free",
     "location": "44.22595657639654, 17.66882909943459"
   },
   {
-    "eventName": "Travnički festival folklora",
+    "eventName": "Travnik Folklore Festival",
     "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnički festival folklora je manifestacija koja se održava u Travniku svake godine u julu, na trgu ispred Zavičajnog muzeja. Festival je posvećen folkloru, koji je izraz narodne kulture i tradicije, te obuhvata razne umjetničke forme, kao što su pjesma, ples, muzika, nošnja, običaji i druge. Festival okuplja folklorne ansamble iz Travnika i drugih gradova i država, koji nastupaju pred publikom, uz pratnju orkestra i solista. Festival je i prilika za očuvanje i njegovanje folklornog naslijeđa, te za razmjenu iskustava i znanja među učesnicima.",
+    "description": "Travnik Folklore Festival is an event held in Travnik every July at the square in front of the Museum of Local History. The festival is dedicated to folklore, expressing the folk culture and tradition, encompassing various artistic forms such as song, dance, music, costumes, customs, and more. The festival gathers folklore ensembles from Travnik and other cities and countries, performing for the audience, accompanied by an orchestra and soloists. The festival is an opportunity to preserve and nurture folklore heritage, as well as to exchange experiences and knowledge among participants.",
     "time": "20-21.7.2023.",
-    "price": "besplatno",
+    "price": "Free",
     "location": "44.23001321755425, 17.63383755918247"
   }
 ]
