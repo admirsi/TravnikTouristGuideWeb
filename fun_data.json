@@ -1,7 +1,7 @@
 [
   {
     "funName": "Travnik Old Town",
-    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
     "description": "Explore the charm of Travnik's Old Town, with its historic architecture, cobblestone streets, and cultural significance. A journey through time in the heart of the city.",
     "duration": "2h",
     "price": "Free",
@@ -11,7 +11,7 @@
   },
   {
     "funName": "Ilhamijino Turbe",
-    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
     "description": "Discover Ilhamijino Turbe, a historical site with architectural beauty and cultural significance. Immerse yourself in the rich heritage of Potur Mahala, Travnik.",
     "duration": "1.5h",
     "price": "Free",
@@ -21,7 +21,7 @@
   },
   {
     "funName": "Zavicajni Muzej Travnik",
-    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
     "description": "Explore the local history and heritage at Zavicajni Muzej Travnik. A museum showcasing the cultural richness of Travnik with exhibits and artifacts.",
     "duration": "2h",
     "price": "Free",
@@ -31,7 +31,7 @@
   },
   {
     "funName": "Sahat Kula",
-    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
     "description": "Visit Sahat Kula, a historic clock tower located at Vezirska Street, Travnik. Admire the architectural beauty and enjoy panoramic views of the city.",
     "duration": "1h",
     "price": "Free",
@@ -41,7 +41,7 @@
   },
   {
     "funName": "Spomenik Bosanskih Vezira",
-    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
     "description": "Pay homage to the Bosnian Viziers at this monument located at Bosanska Street, Travnik. A symbol of historical significance and cultural pride.",
     "duration": "1.5h",
     "price": "Free",
@@ -51,7 +51,7 @@
   },
   {
     "funName": "Vrata Medrese Mehmed Paše Kukavice",
-    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
     "description": "Step into history at the gates of Medresa Mehmed Paše Kukavice, located at Bosanska bb, Travnik 72270. Experience the architectural grandeur of the past.",
     "duration": "1h",
     "price": "Free",
@@ -61,7 +61,7 @@
   },
   {
     "funName": "Ćiro u Travniku",
-    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
     "description": "Embark on a nostalgic journey with Ćiro u Travniku. Explore the heritage of the famous narrow-gauge railway that once connected Travnik to the world.",
     "duration": "2h",
     "price": "Free",
@@ -71,7 +71,7 @@
   },
   {
     "funName": "Vidikovac Vukovića Brdo",
-    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
     "description": "Reach new heights at Vidikovac Vukovića Brdo. Enjoy breathtaking views of the surrounding landscapes from this elevated vantage point in Travnik.",
     "duration": "1.5h",
     "price": "Free",
@@ -81,7 +81,7 @@
   },
   {
     "funName": "RELEJ VLAŠIĆ",
-    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
     "description": "Visit the RELEJ VLAŠIĆ, a key attraction in Šišava. Experience the beauty of Vlašić and enjoy various recreational activities at this mountain relay station.",
     "duration": "Flexible",
     "price": "Varies",
@@ -91,7 +91,7 @@
   },
   {
     "funName": "Sahat Kula na Musali",
-    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
     "description": "Explore the Sahat Kula on Musala, a historical clock tower with a unique charm. Dive into the cultural heritage of Musala in Travnik.",
     "duration": "1h",
     "price": "Free",
