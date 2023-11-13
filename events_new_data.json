@@ -8,6 +8,14 @@
     "location": "44.23221064435923, 17.63748721686031"
   },
   {
+  "eventName": "ITReboot Challenge",
+  "imageFile": "https://itreboot.ba/images/itreboot-challenge.jpg",
+  "description": "ITReboot Challenge is an application development competition held as part of the ITReboot Information Technology Fair. The goal of the competition is to stimulate the creativity and innovation of young programmers and designers, as well as to promote the use of new technologies and solutions. The competition is open to all interested teams who can apply through an online form on the ITReboot website. The competition theme is open, and applications can be developed for any platform. Winning teams will be rewarded with cash and other valuable prizes, as well as the opportunity to showcase their applications at the ITReboot Fair.",
+  "time": "15-17.12.2023.",
+  "price": "Free",
+  "location": "44.22595657639654, 17.66882909943459"
+  },
+  {
     "eventName": "Travnik Fair",
     "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
     "description": "Travnik Fair is the largest fair of economy, agriculture, and tourism in Central Bosnia, held every September at the site of the former barracks in Travnik. The fair gathers exhibitors from various sectors, showcasing their products and services, fostering business cooperation, and exchanging experiences. The fair is also an opportunity to promote the natural beauty, cultural heritage, and gastronomic offerings of the Travnik region. It is accompanied by a rich cultural and entertainment program, including concerts, performances, sports competitions, and other activities.",
@@ -62,14 +70,6 @@
     "time": "8-12.11.2023.",
     "price": "2KM",
     "location": "44.22584897592798, 17.654271027640018"
-  },
-  {
-    "eventName": "Travnik Beer Festival",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnik Beer Festival is an event held in Travnik every August at the former barracks. The festival is dedicated to beer, one of the most popular and oldest beverages in the world, with a rich and diverse offering. The festival brings together beer producers and distributors, offering their products to visitors for tasting and purchase. It's an opportunity to enjoy music, dance, and socializing, as well as to learn about different types of beer, their production, and their impact on health.",
-    "time": "16-17.8.2023.",
-    "price": "Free",
-    "location": "44.22595657639654, 17.66882909943459"
   },
   {
     "eventName": "Travnik Folklore Festival",
