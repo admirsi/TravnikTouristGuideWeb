@@ -5,19 +5,9 @@
     "description": "Explore the charm of Travnik's Old Town, with its historic architecture, cobblestone streets, and cultural significance. A journey through time in the heart of the city.",
     "duration": "2h",
     "price": "Free",
-    "address": "6MHC+V74, Travnik",
+    "address": "Travnik",
     "type": "historical",
     "location": "44.22964545388832, 17.670713911663512"
-  },
-  {
-    "funName": "Plava Voda",
-    "imageFile": "https://example.com/plava_voda.jpg",
-    "description": "Experience the beauty of Plava Voda, a serene natural attraction surrounded by lush greenery. Perfect for a peaceful retreat and connecting with nature.",
-    "duration": "Flexible",
-    "price": "Free",
-    "address": "44.23027035824724, 17.671774323085085",
-    "type": "nature",
-    "location": "44.23027035824724, 17.671774323085085"
   },
   {
     "funName": "Ilhamijino Turbe",
@@ -25,7 +15,7 @@
     "description": "Discover Ilhamijino Turbe, a historical site with architectural beauty and cultural significance. Immerse yourself in the rich heritage of Potur Mahala, Travnik.",
     "duration": "1.5h",
     "price": "Free",
-    "address": "6MH7+36R, Potur Mahala, Travnik",
+    "address": "Potur Mahala, Travnik",
     "type": "historical",
     "location": "44.22766775478569, 17.66305861687128"
   },
@@ -85,7 +75,7 @@
     "description": "Experience the thrill of the giant swing at Galica, Vlašić. A unique attraction offering panoramic views and adrenaline-pumping excitement.",
     "duration": "1h",
     "price": "10 KM",
-    "address": "7JG4+F55, Galica, Šišava",
+    "address": "Galica, Šišava",
     "type": "adventure",
     "location": ""
   },
@@ -95,7 +85,7 @@
     "description": "Reach new heights at Vidikovac Vukovića Brdo. Enjoy breathtaking views of the surrounding landscapes from this elevated vantage point in Travnik.",
     "duration": "1.5h",
     "price": "Free",
-    "address": "7HG8+H7W, Travnik",
+    "address": "Travnik",
     "type": "scenic",
     "location": "44.23155489078539, 17.636760575997354"
   },
@@ -105,7 +95,7 @@
     "description": "Visit the RELEJ VLAŠIĆ, a key attraction in Šišava. Experience the beauty of Vlašić and enjoy various recreational activities at this mountain relay station.",
     "duration": "Flexible",
     "price": "Varies",
-    "address": "7JVP+4F, Šišava",
+    "address": "Šišava",
     "type": "recreational",
     "location": "44.29262450348578, 17.63633343269761"
   },
@@ -115,7 +105,7 @@
     "description": "Explore the Sahat Kula on Musala, a historical clock tower with a unique charm. Dive into the cultural heritage of Musala in Travnik.",
     "duration": "1h",
     "price": "Free",
-    "address": "M-5, Travnik",
+    "address": "Travnik",
     "type": "historical",
     "location": "44.22721203671289, 17.670487942422998"
   }
