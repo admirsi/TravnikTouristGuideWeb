@@ -1,13 +1,5 @@
 [
   {
-    "eventName": "Andrić Days",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Andrić Days is a traditional cultural event held in Travnik every October, celebrating the birthday of the Nobel laureate Ivo Andrić. The event includes various literary, scientific, artistic, and educational programs, such as book presentations, panel discussions, exhibitions, concerts, plays, and workshops. The goal is to affirm and promote Andrić's work and his hometown, as well as encourage the cultural and spiritual development of the people of Travnik and their guests.",
-    "time": "9-15.10.2023.",
-    "price": "Free",
-    "location": "44.23221064435923, 17.63748721686031"
-  },
-  {
   "eventName": "ITReboot Challenge",
   "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
   "description": "ITReboot Challenge is an application development competition held as part of the ITReboot Information Technology Fair. The goal of the competition is to stimulate the creativity and innovation of young programmers and designers, as well as to promote the use of new technologies and solutions. The competition is open to all interested teams who can apply through an online form on the ITReboot website. The competition theme is open, and applications can be developed for any platform. Winning teams will be rewarded with cash and other valuable prizes, as well as the opportunity to showcase their applications at the ITReboot Fair.",
@@ -15,68 +7,53 @@
   "price": "Free",
   "location": "44.22484799775382, 17.660135207401378"
   },
+  [
   {
-    "eventName": "Travnik Fair",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnik Fair is the largest fair of economy, agriculture, and tourism in Central Bosnia, held every September at the site of the former barracks in Travnik. The fair gathers exhibitors from various sectors, showcasing their products and services, fostering business cooperation, and exchanging experiences. The fair is also an opportunity to promote the natural beauty, cultural heritage, and gastronomic offerings of the Travnik region. It is accompanied by a rich cultural and entertainment program, including concerts, performances, sports competitions, and other activities.",
-    "time": "16-19.9.2023.",
-    "price": "2KM",
-    "location": "44.226083539513326, 17.66509980101676"
-  },
-  {
-    "eventName": "Travnik Ćevap Festival",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnik Ćevap Festival is a gastronomic festival held in Travnik every August, aiming to promote and preserve the tradition of preparing and consuming Travnik's Ćevapi, one of the city's most famous brands. The festival brings together Ćevapi makers from Travnik and other cities, offering their specialties to visitors, accompanied by Travnik cheese, onions, somun bread, and kaymak. The festival also includes competitions to determine the best Ćevap maker, best Ćevap, and best somun bread. It's an opportunity to enjoy music, dance, and socializing.",
-    "time": "14-15.8.2023.",
+    "eventName": "Andrić Days 2023",
+    "imageFile": "https://www.travnik.ba/wp-content/uploads/2019/10/andricevi-dani-2019.jpg",
+    "description": "Andrić Days 2023 is a cultural event that celebrates the literary work of Ivo Andrić, the only Bosnian-Herzegovinian Nobel laureate, through various activities such as book promotions, theatrical performances, exhibitions, and concerts. The event takes place from October 9th to November 9th in various locations in Travnik, including the birthplace of Ivo Andrić.",
+    "time": "9.10.-9.11.2023.",
     "price": "Free",
-    "location": "44.22611521253636, 17.659724507445098"
+    "location": "44.227637, 17.662599"
   },
   {
-    "eventName": "Travnik Carnival",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnik Carnival is an event held in Travnik every February, just before the start of Lent. The carnival brings together participants from different cities and countries who dress up and parade through the streets of Travnik, accompanied by music and dance. The carnival is also an opportunity for humor and satire, creatively mocking current social and political events. The carnival concludes with the selection of the best costume and the burning of an effigy symbolizing winter.",
-    "time": "26-27.2.2023.",
+    "eventName": "Promotion of the Integrated and Online System for Business Entity Registration for the Federation of BiH",
+    "imageFile": "https://www.fbihvlada.gov.ba/bosanski/images/stories/2020/12/registracija_poslovnih_subjekata.jpg",
+    "description": "The Promotion of the Integrated and Online System for Business Entity Registration for the Federation of BiH is an event that introduces a new system worth 2.3 million marks. This system enables faster and simpler registration of business entities in the Federation of BiH, contributing to economic development and reducing bureaucracy. The system promotion will take place on Tuesday, July 4th, at the Municipal Court in Travnik starting at 10 AM.",
+    "time": "4.7.2023. at 10:00",
     "price": "Free",
-    "location": "44.226339912343775, 17.66230386374915"
+    "location": "44.226974, 17.664256"
   },
   {
-    "eventName": "Travnik Book Fair",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnik Book Fair is an event held in Travnik every October at the Cultural Center. The fair brings together publishers, authors, bookstores, libraries, and book enthusiasts who can browse and buy books of various genres and topics at affordable prices. The fair is accompanied by a rich cultural program, including book promotions, literary evenings, panel discussions, workshops, and prize draws.",
-    "time": "18-22.10.2023.",
+    "eventName": "Travnik Municipality Day",
+    "imageFile": "https://www.travnik.ba/wp-content/uploads/2018/03/IMG_20180321_121945.jpg",
+    "description": "Travnik Municipality Day is an event celebrated on March 21st, offering nearly 100 different cultural, entertainment, and sports activities. These include an organic produce fair, an exhibition of learning and games for the youngest residents of Travnik, socializing with firefighters and police officers, a ride on the tourist train 'ćiro,' blood pressure and weight measurements, haircuts in a men's hair salon, a 'kajganijada' (egg dish) competition at the Stari Grad fortress, art exhibitions and performances, book promotions, and theatrical shows, educational lectures, and fun workshops, sports activities, and much more. The event is held under the motto 'Travnik through the eyes of a child' and is dedicated to the youngest residents of Travnik.",
+    "time": "21.3.2023.",
     "price": "Free",
-    "location": "44.22607642455642, 17.667042255238155"
+    "location": "44.226974, 17.664256"
   },
   {
-    "eventName": "Travnik Youth Festival",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnik Youth Festival is an event held in Travnik every June at the former barracks. The festival is dedicated to young people and their creative expression, featuring various artistic, sports, educational, and entertaining programs, including concerts, performances, exhibitions, workshops, competitions, and more. The festival is an opportunity for socializing, exchanging ideas and experiences, and promoting young talents and activists.",
-    "time": "14-16.6.2023.",
+    "eventName": "Travnik Book Fair 2023",
+    "imageFile": "https://www.travnik.ba/wp-content/uploads/2019/11/IMG_20191115_111449.jpg",
+    "description": "Travnik Book Fair 2023 is a traditional event that promotes literature, culture, and education in Travnik and beyond. The book fair will take place from November 15th to 19th at the Cultural Center in Travnik. Numerous publishers, writers, translators, critics, librarians, professors, and students will participate in the fair. Visitors will have the opportunity to buy books at favorable prices, attend promotions, panels, workshops, literary meetings, and prize games.",
+    "time": "15.-19.11.2023.",
     "price": "Free",
-    "location": "44.227286620577466, 17.66618909374516"
+    "location": "44.226974, 17.664256"
   },
   {
-    "eventName": "Travnik Cheese Festival",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnik Cheese Festival is a gastronomic festival held in Travnik every May in front of the Museum of Local History. The festival is dedicated to Travnik cheese, one of the most famous and highest quality cheeses in Bosnia and Herzegovina, with protected geographical origin. The festival gathers cheese producers and distributors, offering their products to visitors for tasting and purchase. It's an opportunity to discover different types of cheese, their production, and their significance for health.",
-    "time": "25-26.5.2023.",
+    "eventName": "Days of Honey in the Central Bosnia Canton 2023",
+    "imageFile": "https://www.travnik.ba/wp-content/uploads/2019/09/IMG_20190921_114833.jpg",
+    "description": "Days of Honey in the Central Bosnia Canton 2023 is an event aimed at supporting beekeeping and honey production in the Central Bosnia Canton, as well as raising awareness about the importance of honey for health and nutrition. The event will take place from September 22nd to 24th at the City Hall in Novi Travnik. Around 50 beekeepers from the Central Bosnia Canton and other parts of BiH will participate, exhibiting and selling their products. Additionally, there will be lectures, presentations, tastings, honey quality evaluations, and award ceremonies.",
+    "time": "22.-24.9.2023.",
     "price": "Free",
-    "location": "44.225984597528935, 17.6689178684315"
+    "location": "44.171980, 17.657213"
   },
   {
-    "eventName": "Travnik Film Festival",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnik Film Festival is an event held in Travnik every November at the 'Korzo' cinema. The festival is dedicated to film enthusiasts and showcases films of various genres and countries, with a special focus on domestic and regional cinematography. The festival is also competitive, with awards for the best film, direction, screenplay, acting, and other categories, judged by a professional jury and the audience.",
-    "time": "8-12.11.2023.",
-    "price": "2KM",
-    "location": "44.22584897592798, 17.654271027640018"
-  },
-  {
-    "eventName": "Travnik Folklore Festival",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Travnik Folklore Festival is an event held in Travnik every July at the square in front of the Museum of Local History. The festival is dedicated to folklore, expressing the folk culture and tradition, encompassing various artistic forms such as song, dance, music, costumes, customs, and more. The festival gathers folklore ensembles from Travnik and other cities and countries, performing for the audience, accompanied by an orchestra and soloists. The festival is an opportunity to preserve and nurture folklore heritage, as well as to exchange experiences and knowledge among participants.",
-    "time": "20-21.7.2023.",
+    "eventName": "Youth Talent Festival in Travnik 2023",
+    "imageFile": "https://www.travnik.ba/wp-content/uploads/2019/12/IMG_20191201_200113.jpg",
+    "description": "The Youth Talent Festival in Travnik 2023 brings together young talents from various fields of art, such as music, dance, acting, painting, photography, poetry, and more. The festival will take place from December 1st to 3rd at the Youth Center in Travnik. Around 100 young artists from Travnik and its surroundings will compete, showcasing their skills and creativity in front of a professional jury and the audience. In addition to the competitive part, the festival will offer a rich cultural and entertainment program, including concerts, exhibitions, screenings, workshops, and social gatherings.",
+    "time": "1.-3.12.2023.",
     "price": "Free",
-    "location": "44.23001321755425, 17.63383755918247"
+    "location": "44.226974, 17.664256"
   }
 ]
