@@ -66,7 +66,7 @@
     "foodName": "Pizzeria Cedar",
     "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
     "description": "Pizzeria in Šehida 47, Travnik.",
-    "duration": "pon-sub(07:30-23)ned(x)",
+    "duration": "pon-sub(07:30-23), ned(x)",
     "address": "Aleja Šehida 47, Travnik 72270",
     "type": "pizzeria",
     "location": "44.22726724307388, 17.667766784442144"
@@ -84,7 +84,7 @@
     "foodName": "Hari Restoran",
     "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
     "description": "Restaurant in Donja čaršija bb, Travnik.",
-    "duration": "pon,uto,sri,cet,ned(07-22:30) pet,sub(07-23)",
+    "duration": "pon,uto,sri,cet, ned(07-22:30) pet,sub(07-23)",
     "address": "Donja čaršija bb, Travnik 72270",
     "type": "restoran",
     "location": "44.22671566050786, 17.67081601891073"
@@ -120,7 +120,7 @@
     "foodName": "Restoran Tarabovac",
     "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
     "description": "Restaurant in Erika Brandisa 1, Travnik 72270.",
-    "duration": "pon-sub(07-17)ned(x)",
+    "duration": "pon-sub(07-17), ned(x)",
     "address": "Erika Brandisa 1, Travnik 72270",
     "type": "restoran",
     "location": "44.22486260369005, 17.664878984703595"
@@ -129,7 +129,7 @@
     "foodName": "Kod Seje",
     "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
     "description": "Restaurant in Donja Carsija.",
-    "duration": "pon-sub(08-19)ned(x)",
+    "duration": "pon-sub(08-19), ned(x)",
     "address": "Donja Carsija",
     "type": "restoran",
     "location": "44.226248145555154, 17.669786571995523"
@@ -138,7 +138,7 @@
     "foodName": "Bistro Bens",
     "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
     "description": "Bistro in Stanična, Travnik.",
-    "duration": "pon-pet(06-18)sub(06-15:30)ned(x)",
+    "duration": "pon-pet(06-18), sub(06-15:30), ned(x)",
     "address": "Stanična, Travnik",
     "type": "restoran",
     "location": "44.22763989517455, 17.656541533161406"
@@ -147,7 +147,7 @@
     "foodName": "Bistro Lovac",
     "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
     "description": "Bistro in Bosanska 54, Travnik 72270.",
-    "duration": "pon-sub(07-18)ned(x)",
+    "duration": "pon-sub(07-18), ned(x)",
     "address": "Bosanska 54, Travnik 72270",
     "type": "restoran",
     "location": "44.22620164234463, 17.65833874032212"
@@ -156,7 +156,7 @@
     "foodName": "Fast Food Seher",
     "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
     "description": "Fast food in Kalibunar BB, Travnik 72200.",
-    "duration": "pon-sub(08-20)ned(x)",
+    "duration": "pon-sub(08-20), ned(x)",
     "address": "Kalibunar BB, Travnik 72200",
     "type": "restoran",
     "location": "44.22987582416548, 17.642637137364808"
@@ -165,7 +165,7 @@
     "foodName": "Vaha",
     "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
     "description": "Restaurant in Bosanska bb, Travnik 72270.",
-    "duration": "pon-pet(07-22)sub-ned(09-17)",
+    "duration": "pon-pet(07-22), sub-ned(09-17)",
     "address": "Bosanska bb, Travnik 72270",
     "type": "restoran",
     "location": "44.226347130680445, 17.661322247439422"
@@ -183,7 +183,7 @@
     "foodName": "Bistro Bens",
     "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
     "description": "Bistro in Stanična, Travnik.",
-    "duration": "pon-pet(06-18)sub(06-15:30)ned(x)",
+    "duration": "pon-pet(06-18), sub(06-15:30), ned(x)",
     "address": "Stanična, Travnik",
     "type": "restoran",
     "location": "44.22763989517455, 17.656541533161406"
