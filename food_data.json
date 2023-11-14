@@ -45,15 +45,6 @@
     "location": "44.23009384489074, 17.654491211907516"
   },
   {
-    "foodName": "Pekara ABA Travnik",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Bakery with a variety of baked goods. Explore a wide range of delicious treats at this convenient location. Immerse yourself in the culinary history of Travnik, home to the renowned Travnik cheese and authentic Bosnian dishes.",
-    "duration": "00-24",
-    "address": "Bosanska 117, Travnik 72270",
-    "type": "pekara",
-    "location": "44.22636079154388, 17.66347587493929"
-  },
-  {
     "foodName": "Caffe Pizzeria London",
     "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
     "description": "Pizzeria and cafe in Bosanska 2, Travnik. Enjoy a blend of delicious pizza and coffee in a cozy ambiance. Delight your taste buds with Travnik's culinary gems, including the famous Travnik cheese and ćevapi street food.",
@@ -99,15 +90,6 @@
     "location": "44.22614828526168, 17.65897525462925"
   },
   {
-    "foodName": "Cevabdzinica Hari",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Cevabdzinica in Donja čaršija bb, Travnik. Savor the authentic taste of Bosnian cevapi in a traditional setting. Indulge in the culinary wonders of Travnik, where traditional dishes like cevapi are a cultural treasure.",
-    "duration": "pon,uto,sri,cet,ned(07-22:30) pet,sub(07-23)",
-    "address": "Donja čaršija bb, Travnik 72270",
-    "type": "restoran",
-    "location": "44.22675427266217, 17.67093687959134"
-  },
-  {
     "foodName": "Ascinica Plava Voda",
     "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
     "description": "Restaurant in Travnik 72270. Enjoy a delightful dining experience with a scenic view. Immerse yourself in the culinary beauty of Travnik, where natural landscapes and delicious cuisine come together.",
@@ -115,24 +97,6 @@
     "address": "Travnik 72270",
     "type": "restoran",
     "location": "44.229366703444676, 17.672295880069985"
-  },
-  {
-    "foodName": "Restoran Tarabovac",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Restaurant in Erika Brandisa 1, Travnik 72270. Enjoy a cozy dining experience in a welcoming atmosphere. Immerse yourself in the culinary richness of Travnik, where tradition and hospitality create memorable dining moments.",
-    "duration": "pon-sub(07-17), ned(x)",
-    "address": "Erika Brandisa 1, Travnik 72270",
-    "type": "restoran",
-    "location": "44.22486260369005, 17.664878984703595"
-  },
-  {
-    "foodName": "Kod Seje",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Restaurant in Donja Carsija. Experience a blend of traditional and modern dishes in a historic setting. Immerse yourself in the culinary wonders of Travnik, where history and gastronomy intertwine.",
-    "duration": "pon-sub(08-19), ned(x)",
-    "address": "Donja Carsija",
-    "type": "restoran",
-    "location": "44.226248145555154, 17.669786571995523"
   },
   {
     "foodName": "Bistro Bens",
