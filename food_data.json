@@ -1,16 +1,7 @@
 [
   {
     "foodName": "Pekara ABA",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
-    "description": "Bakery with a variety of baked goods. Enjoy fresh pastries and bread throughout the day. Experience the rich culinary heritage of Travnik, influenced by its history, culture, and geography. Indulge in delightful treats while savoring the city's famed Travnik cheese, a national treasure of Bosnia and Herzegovina.",
-    "duration": "00-24",
-    "address": "Bosanska 117, Travnik 72270",
-    "type": "pekara",
-    "location": "44.22636514150825, 17.663354664952088"
-  },
-  {
-    "foodName": "Pekara ABA 2",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/pekara_aba_2.webp",
     "description": "Another bakery with a variety of baked goods. Delight in a diverse selection of freshly baked treats. Immerse yourself in the flavors of Travnik's culinary heritage, with a special focus on Travnik cheese and other local specialties.",
     "duration": "pon-cet(05-22:30)",
     "address": "Bosanska 183, Travnik 72270",
@@ -19,7 +10,7 @@
   },
   {
     "foodName": "Pekara Kalibunar",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/pekara_kalibunar.webp",
     "description": "Bakery located in Kalibunar area. Savor the goodness of freshly baked delights in a cozy atmosphere. Explore the culinary wonders of Travnik, known for its Travnik cheese and grilled minced meat sausages (ćevapi).",
     "duration": "pon-ned(05:30-23)",
     "address": "Bosansk, Travnik 72270",
@@ -28,7 +19,7 @@
   },
   {
     "foodName": "Pekara Vlasic",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/pekara_vlasic.webp",
     "description": "Bakery in Šehida, Travnik. Indulge in a delightful array of baked goods at any time of the day. Experience the culinary diversity of Travnik, where tradition meets modern taste.",
     "duration": "00-24",
     "address": "Aleja Šehida, Travnik 72270",
@@ -37,7 +28,7 @@
   },
   {
     "foodName": "Pekara Zvrko",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/pekara_zvrko.webp",
     "description": "Bakery with a variety of baked goods. Treat yourself to delicious pastries and snacks around the clock. Immerse yourself in the culinary delights of Travnik, known for its unique Travnik cheese and ćevapi street food.",
     "duration": "00-24",
     "address": "Kalibunar 28, Travnik 72270",
@@ -45,8 +36,8 @@
     "location": "44.23009384489074, 17.654491211907516"
   },
   {
-    "foodName": "Caffe Pizzeria London",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
+    "foodName": "caffe_pizza_london",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/caffe_pizza_london.webp",
     "description": "Pizzeria and cafe in Bosanska 2, Travnik. Enjoy a blend of delicious pizza and coffee in a cozy ambiance. Delight your taste buds with Travnik's culinary gems, including the famous Travnik cheese and ćevapi street food.",
     "duration": "pon-ned(07-23)",
     "address": "Bosanska 2, Travnik 72270",
@@ -55,7 +46,7 @@
   },
   {
     "foodName": "Pizzeria Cedar",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/pizza_cedar.webp",
     "description": "Pizzeria in Šehida 47, Travnik. Delight in the flavors of freshly baked pizza in a warm and inviting setting. Experience the culinary richness of Travnik, where tradition and innovation come together.",
     "duration": "pon-sub(07:30-23), ned(x)",
     "address": "Aleja Šehida 47, Travnik 72270",
@@ -64,7 +55,7 @@
   },
   {
     "foodName": "Bajra Cevabdzinica Konak",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/bajra_konak.webp",
     "description": "Cevabdzinica with traditional Bosnian food. Experience the authentic taste of Bosnian cevapi. Immerse yourself in the culinary delights of Travnik, where traditional dishes like ćevapi are a cultural heritage.",
     "duration": "pon-ned(07-23)",
     "address": "Vezirska bb, Travnik 72270",
@@ -73,7 +64,7 @@
   },
   {
     "foodName": "Hari Restoran",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/hari_restoran.webp",
     "description": "Restaurant in Donja čaršija bb, Travnik. Enjoy a diverse menu of local and international dishes in a charming atmosphere. Immerse yourself in the culinary wonders of Travnik, where traditional flavors meet modern gastronomy.",
     "duration": "pon,uto,sri,cet, ned(07-22:30) pet,sub(07-23)",
     "address": "Donja čaršija bb, Travnik 72270",
@@ -82,7 +73,7 @@
   },
   {
     "foodName": "Karalic Restoran",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/karalic_restoran.webp",
     "description": "Restaurant in Donja čaršija, Travnik. Experience a fusion of traditional and modern flavors in a historic setting. Delight in the culinary heritage of Travnik, known for its rich history and diverse gastronomy.",
     "duration": "pon-ned(07-22:30)",
     "address": "Donja čaršija, Travnik",
@@ -91,7 +82,7 @@
   },
   {
     "foodName": "Ascinica Plava Voda",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/ascinica_plava_voda_in.webp",
     "description": "Restaurant in Travnik 72270. Enjoy a delightful dining experience with a scenic view. Immerse yourself in the culinary beauty of Travnik, where natural landscapes and delicious cuisine come together.",
     "duration": "pon-ned(08-22)",
     "address": "Travnik 72270",
@@ -100,7 +91,7 @@
   },
   {
     "foodName": "Bistro Bens",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/bistro_benz.webp",
     "description": "Bistro in Stanična, Travnik. Enjoy a quick and tasty meal in a friendly and casual setting. Immerse yourself in the culinary delights of Travnik, where Bistro Bens offers a diverse menu inspired by local flavors.",
     "duration": "pon-pet(06-18), sub(06-15:30), ned(x)",
     "address": "Stanična, Travnik",
@@ -109,7 +100,7 @@
   },
   {
     "foodName": "Bistro Lovac",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/bistro_lovac.webp",
     "description": "Bistro in Bosanska 54, Travnik 72270. Taste a variety of delicious dishes in a relaxed and welcoming environment. Immerse yourself in the culinary wonders of Travnik, where Bistro Lovac offers a fusion of local and international flavors.",
     "duration": "pon-sub(07-18), ned(x)",
     "address": "Bosanska 54, Travnik 72270",
@@ -118,7 +109,7 @@
   },
   {
     "foodName": "Fast Food Seher",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/TravnikPlaceHolder.webp",
+    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/fast_food_seher.webp",
     "description": "Fast food in Kalibunar BB, Travnik 72200. Grab a quick and delicious meal on the go. Immerse yourself in the culinary delights of Travnik, where Fast Food Seher offers convenient and tasty options.",
     "duration": "pon-sub(08-20), ned(x)",
     "address": "Kalibunar BB, Travnik 72200",
